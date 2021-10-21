@@ -25,7 +25,7 @@ spec:
     spec:
       containers:
       - name: rollouts-demo
-        image: naveenkumar003/my-webapp:v1
+        image: naveenkumar003/my-webapp:v2
         ports:
         - name: http
           containerPort: 80
